@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    text-shadow: 2px 2px white;
+    font-style: bold;
+}
+
+h4{
+    color: blue ;
+}
+
+p{
+    color: white;
+}
+
+pre{
+    color:aqua;
+}
+
+.Q{
+   color: thistle;
+   text-decoration: underline;
+}
